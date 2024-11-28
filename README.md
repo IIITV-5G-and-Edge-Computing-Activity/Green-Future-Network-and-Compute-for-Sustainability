@@ -219,8 +219,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **📞 Contact**  
-**Project Lead**: Neel  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
+**Project Lead**: Neel Madhav Padhi
+- Email: [your-email@example.com](mailto:nmp1721@gmail.com)  
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 ```
 

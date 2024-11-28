@@ -1,6 +1,6 @@
 
 # **Green Future Network and Compute for Sustainability**  
-![Project Banner](https://via.placeholder.com/1000x300?text=Add+Your+Project+Banner+Here)  
+![Project Banner](https://via.placeholder.com/1000x300?text=Add+Your+Project+Banner+Here)   
 
 > **Optimizing energy consumption in virtual machines with advanced monitoring and Machine Learning.**  
 

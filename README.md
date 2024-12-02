@@ -220,7 +220,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **📞 Contact**  
 **Project Lead**: Neel Madhav Padhi
-- Email: [your-email@example.com](mailto:nmp1721@gmail.com)
+- Email: [nmp1721@gmail.com](mailto:nmp1721@gmail.com)
 - Email: [darshangoje@gmail.com](mailto:darshangoje@gmail.com) 
 - LinkedIn: [Darshan Hangoje](https://www.linkedin.com/in/darshan-hangoje-0344b1258/)  
 ```

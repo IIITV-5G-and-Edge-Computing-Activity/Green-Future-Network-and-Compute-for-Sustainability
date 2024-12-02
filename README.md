@@ -21,11 +21,7 @@ This project focuses on reducing energy consumption in Virtual Machines (VMs) an
 ## **📂 Project Structure**  
 ```plaintext
 root
-├── src/                   # Source code for ML models and utilities
-├── config/                # Prometheus and Grafana configuration files
-├── scripts/               # Automation scripts for monitoring setup
-├── data/                  # Sample datasets and energy logs
-├── docs/                  # Documentation and reports
+├── images/                # images for illustration purposes
 └── README.md              # Project documentation
 ```  
 
@@ -66,7 +62,7 @@ This guide includes steps for setting up **Prometheus**, **Node Exporter**, **Gr
    wget https://github.com/prometheus/prometheus/releases/download/v2.32.1/prometheus-2.32.1.linux-amd64.tar.gz
    tar -xvf prometheus-2.32.1.linux-amd64.tar.gz
    ```  
-
+![Image Description](images/image2.jpg)
 3. Set up directories and move files:  
    ```bash
    sudo mkdir -p /data /etc/prometheus
@@ -75,7 +71,7 @@ This guide includes steps for setting up **Prometheus**, **Node Exporter**, **Gr
    sudo mv consoles/ console_libraries/ /etc/prometheus/
    sudo mv prometheus.yml /etc/prometheus/prometheus.yml
    ```  
-
+![Image Description](images/img4.jpg)
 4. Adjust ownership and permissions:  
    ```bash
    sudo chown -R prometheus:prometheus /etc/prometheus /data
@@ -109,9 +105,9 @@ This guide includes steps for setting up **Prometheus**, **Node Exporter**, **Gr
    sudo systemctl start prometheus
    sudo systemctl status prometheus
    ```  
-
+![Image Description](images/img6.jpg)
 ---
-
+![Image Description](images/img7.jpg)
 #### **2. Install Node Exporter**  
 1. Create a dedicated user:  
    ```bash
@@ -167,6 +163,7 @@ This guide includes steps for setting up **Prometheus**, **Node Exporter**, **Gr
    ```  
 
 ---
+![Image Description](images/img8.jpg)
 
 #### **3. Install Grafana**  
 1. Add GPG key and repository:  

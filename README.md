@@ -210,7 +210,7 @@ This guide includes steps for setting up **Prometheus**, **Node Exporter**, **Gr
 ---
 
 ## **💡 Contributing**  
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.  
+Contributions are welcome! Please check the [CONTRIBUTING.md](contributing.md) file for guidelines.  
 
 ---
 

@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-27 at 00 19 50_1a663bf5](https://github.com/user-attachments/assets/18b90159-8218-412d-9c32-766a0950a8c2)
+
 # **Green Future Network and Compute for Sustainability**  
 
 

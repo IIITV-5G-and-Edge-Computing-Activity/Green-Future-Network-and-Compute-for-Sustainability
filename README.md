@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2024-11-27 at 00 19 50_1a663bf5](https://github.com/user-attachments/assets/18b90159-8218-412d-9c32-766a0950a8c2)
 # **Green Future Network and Compute for Sustainability**  
 
 
@@ -193,7 +193,11 @@ This guide includes steps for setting up **Prometheus**, **Node Exporter**, **Gr
 ---
 
 ## **📊 Example Visualizations**  
-![Dashboard Example](https://via.placeholder.com/800x400?text=Add+Grafana+Dashboard+Image)  
+![Image Description](images/img9.jpg)
+![Image Description](images/img10.jpg)
+![Image Description](images/img11.jpg)
+![Image Description](images/img14.jpg)
+![Image Description](images/img15.jpg)
 *Real-time energy metrics displayed using Grafana.*  
 
 ---
@@ -218,6 +222,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## **📞 Contact**  
 **Project Lead**: Neel Madhav Padhi
 - Email: [nmp1721@gmail.com](mailto:nmp1721@gmail.com)
+- LinkedIn: [Neel Madhav Padhi](https://www.linkedin.com/in/neel-madhav-padhi-921868295/) 
 - Email: [darshangoje@gmail.com](mailto:darshangoje@gmail.com) 
 - LinkedIn: [Darshan Hangoje](https://www.linkedin.com/in/darshan-hangoje-0344b1258/)  
 ```
